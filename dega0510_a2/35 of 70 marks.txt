@@ -1,0 +1,2 @@
+Q1 (assignment_average) = 0 points, I believe this had an autograder issue, unknown.
+Q2 (process_management) = 35
